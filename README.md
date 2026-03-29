@@ -8,10 +8,10 @@
 - 💬 Ask me about **React, llama.cpp**
 - 📫 How to reach me **sanathkumar5638@gmail.com**
 
----
+<br>
 
-<h3 align="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" alt="🌏" width="28" height="28"> Connect with me:</h3>
+<h2 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" alt="🌏" width="28" height="28"> Connect with me:</h2>
 
 <p align="left">
   <a href="mailto:sanathkumar5638@gmail.com">
@@ -19,7 +19,7 @@
   </a>
 </p>
 
----
+<br>
 
 <h2 align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="28" height="28"> 
@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=python,cs,ts,js,html,css" />
 </p>
 
----
+<br>
 
 <h2>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="28">
@@ -40,6 +40,8 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,qt,unity,git,linux,blender,figma,arduino&perline=8" />
 </p>
+
+<br>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f978/512.gif" alt="🥸" width="28" height="28"> Who am I?
 
@@ -71,6 +73,6 @@ class WhoAmI:
 
 ```
 
----
+<br>
 
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c_1f3fb/512.gif" alt="🙌" width="32" height="32"> Passionate developer building cool stuff
