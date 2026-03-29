@@ -27,7 +27,12 @@
 </h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,ts,js,html,css" />
+<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="50" style="margin:5px"/></a>
+<a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="50" style="margin:5px"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" height="50" style="margin:5px"/></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="50" style="margin:5px"/></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="50" style="margin:5px"/></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="50" style="margin:5px"/></a>
 </p>
 
 <br>
@@ -38,7 +43,15 @@
 </h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,qt,unity,git,linux,blender,figma,arduino&perline=8" />
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" height="50" style="margin:5px"/></a>
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="50" style="margin:5px"/></a>
+<a href="https://www.qt.io"><img src="https://skillicons.dev/icons?i=qt" height="50" style="margin:5px"/></a>
+<a href="https://unity.com"><img src="https://skillicons.dev/icons?i=unity" height="50" style="margin:5px"/></a>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="50" style="margin:5px"/></a>
+<a href="https://www.kernel.org"><img src="https://skillicons.dev/icons?i=linux" height="50" style="margin:5px"/></a>
+<a href="https://www.blender.org"><img src="https://skillicons.dev/icons?i=blender" height="50" style="margin:5px"/></a>
+<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" height="50" style="margin:5px"/></a>
+<a href="https://www.arduino.cc"><img src="https://skillicons.dev/icons?i=arduino" height="50" style="margin:5px"/></a>
 </p>
 
 <br>
@@ -73,6 +86,6 @@ class WhoAmI:
 
 ```
 
-<br>
+---
 
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c_1f3fb/512.gif" alt="🙌" width="32" height="32"> Passionate developer building cool stuff
