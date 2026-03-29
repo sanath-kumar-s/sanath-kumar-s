@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on [CleverWick](https://github.com/sanath-kumar-s/CleverWick)
 - 🌱 I’m currently learning **React, TypeScript**
 - 🔭 I’m currently working on a game [UrbanFallout](https://github.com/sanath-kumar-s/UrbanFallout)
-- 💬 Ask me about **React, llama.cpp**
 - 📫 How to reach me **sanathkumar5638@gmail.com**
 
 <br>
