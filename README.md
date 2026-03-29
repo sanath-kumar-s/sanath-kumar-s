@@ -32,7 +32,7 @@
 
 ---
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/lottie.json><h3 align="left">My toolbox</h3>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/lottie.json" width="28px" height="28px"><h3 align="left">My toolbox</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,qt,unity,git,linux,blender,figma,arduino,electron&perline=8" />
