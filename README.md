@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="mailto:sanathkumar5638@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+	<img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
@@ -58,33 +58,9 @@
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f978/512.gif" alt="🥸" width="28" height="28"> Who am I?
 
-```python
-class WhoAmI:
-	user = 'Sanath K S'
-		current_work = 'Learning'
-		hobbies = [
-				'Painting',
-				'Watching Anime',
-				'Reading Manga'
-				'Being up all Night chasing that ONE BUG...'
-            'Playing Chess'
-			]
-
-	def getCity():
-		return Banglore_India()
-
-	def Ambitions():
-		LearnToBuildOS()
-		CompleteMyArtwork()
-		FinishMyManga()
-		# Assume 10 more awesome ambitions here  ;)
-
-   def currentWork():
-    BreakingIntoCybersecurity()
-
-
-
-```
+<p align="left">
+  <img src="codeImage.png" alt="WhoAmI code snippet" width="800">
+</p>
 
 ---
 
