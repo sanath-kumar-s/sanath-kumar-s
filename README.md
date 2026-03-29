@@ -59,7 +59,7 @@
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f978/512.gif" alt="🥸" width="28" height="28"> Who am I?
 
 <p align="left">
-  <img src="codeImage.png" alt="WhoAmI code snippet" width="800">
+  <img src="codeImage.png" alt="WhoAmI code snippet" width="600">
 </p>
 
 ---
