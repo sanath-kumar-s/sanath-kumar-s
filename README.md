@@ -35,7 +35,7 @@
 <h3 align="left">My toolbox</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,qt,unity,flutter,firebase,git,linux,blender,figma,arduino,electron&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,qt,unity,git,linux,blender,figma,arduino,electron&perline=8" />
 </p>
 
  ## Who am I?
