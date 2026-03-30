@@ -9,6 +9,9 @@
 
 <br>
 
+
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanath-kumar-s&data=followers,repositories,stars,commits&theme=darkmode)
+
 <h2 align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" alt="🌏" width="28" height="28"> Connect with me:</h2>
 
@@ -65,4 +68,3 @@
 
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c_1f3fb/512.gif" alt="🙌" width="32" height="32"> Passionate developer building cool stuff
 
-<!-- End>
