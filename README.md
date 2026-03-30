@@ -1,4 +1,4 @@
-<h1 align="left">Konichiwa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></h1>
+# Konichiwa, I am `Sanath!!` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 ### `Hello World!!` <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="28" height="28"> I am a passionate software developer who wants to learn new things every day.
 
