@@ -18,7 +18,7 @@
 
 
 <p align="left">
-  <a href="mailto:sanathkumar5638@gmail.com">
+  <a href="sanathkumar5638@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" style="margin:6px" alt="Gmail"/>
   </a>
   <a href="https://www.reddit.com/user/Sanath-10/">
