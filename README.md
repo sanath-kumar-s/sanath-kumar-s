@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [CleverWick](https://github.com/sanath-kumar-s/CleverWick)
 - 🌱 I’m currently learning **React, TypeScript**
-- 🔭 I’m currently working on a game [UrbanFallout](https://github.com/sanath-kumar-s/UrbanFallout)
+- 🔭 I’m currently working on a game [Python-beginner-Projects](https://github.com/sanath-kumar-s/Python-beginner-projects)
 - 📫 How to reach me **sanathkumar5638@gmail.com**
 
 <br>
