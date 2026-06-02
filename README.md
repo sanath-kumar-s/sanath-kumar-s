@@ -1,4 +1,6 @@
-# Konichiwa, I am `Sanath!!` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+<div align="left">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&pause=1000&color=00F7CE&center=true&vCenter=true&width=600&height=100&size=35&lines=Konichiwa;My+Name+is+Sanath!!;Nice+to+see+you" alt="Typing SVG" /></a>
+</div>
 
 ### `Hello World!!` <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="28" height="28"> I am a passionate software developer who wants to learn new things every day.
 
@@ -83,8 +85,12 @@
   <img src="img/codeImage.png" alt="WhoAmI code snippet" width="600">
 </p>
 
----
+<br>
 
-![](./profile-3d-contrib/profile-.svg)
+<p align='center'>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg">
+</p>
+
+<br>
 
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c_1f3fb/512.gif" alt="🙌" width="32" height="32"> Passionate developer building cool stuff
