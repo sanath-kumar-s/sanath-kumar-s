@@ -26,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" style="margin:6px" alt="Gmail"/>
   </a>
   <a href="https://www.reddit.com/user/Sanath-10/">
-    <img src="img/reddit.png" style="margin:6px" width="48" height="48" alt="Reddit"/>
+    <img src="img/tech/reddit.png" style="margin:6px" width="48" height="48" alt="Reddit"/>
   </a>
 </p>
 
