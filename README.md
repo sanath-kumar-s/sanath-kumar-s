@@ -9,13 +9,10 @@
 
 <br>
 
-
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanath-kumar-s&data=followers,repositories,stars,commits&theme=darkmode)
 
 <h2 align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" alt="🌏" width="28" height="28"> Connect with me:</h2>
-
-
 
 <p align="left">
   <a href="sanathkumar5638@gmail.com">
@@ -44,6 +41,8 @@
 
 <br>
 
+<br>
+
 <h2>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="28">
    My Toolbox
@@ -63,13 +62,27 @@
 
 <br>
 
+<h2 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="28" height="28"> 
+  AI Toolbox
+</h2>
+
+<p>
+ <a href="https://openai.com/chatgpt" target="_blank"> <img alt="ChatGPT" height="52px" src="img/tech/chatgpt-ai.svg" /></a>
+ <a href="https://gemini.google.com/" target="_blank"> <img alt="Gemini" height="52px" src="img/tech/gemini-ai.svg" /></a>
+ <a href="https://www.anthropic.com/" target="_blank"> <img alt="Claude" height="52px" src="img/tech/claude-ai.svg" /></a>
+ <a href="https://copilot.microsoft.com/" target="_blank"> <img alt="Groq" height="52px" src="img/tech/antigravity.svg" /></a>
+ <a href="https://ollama.com/" target="_blank"> <img alt="Groq" height="52px" src="img/tech/ollama.svg" /></a>
+</p>
+
+<br>
+
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f978/512.gif" alt="🥸" width="28" height="28"> Who am I?
 
 <p align="left">
-  <img src="codeImage.png" alt="WhoAmI code snippet" width="600">
+  <img src="img/codeImage.png" alt="WhoAmI code snippet" width="600">
 </p>
 
 ---
 
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c_1f3fb/512.gif" alt="🙌" width="32" height="32"> Passionate developer building cool stuff
-
