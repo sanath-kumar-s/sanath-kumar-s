@@ -1,5 +1,9 @@
-<div align="left">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&pause=1000&color=00F7CE&center=true&vCenter=true&width=600&height=100&size=35&lines=Konichiwa;My+Name+is+Sanath!!;Nice+to+see+you" alt="Typing SVG" /></a>
+<div align="center">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=77&color=gradient"/>
+</div>
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&size=50&lines=Konichiwa;My+name+is+Sanath!!;Nice+to+see+you" alt="Typing SVG" /></a>
 </div>
 
 ### `Hello World!!` <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" alt="😎" width="28" height="28"> I am a passionate software developer who wants to learn new things every day.
@@ -10,8 +14,9 @@
 - 📫 How to reach me **sanathkumar5638@gmail.com**
 
 <br>
-
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sanath-kumar-s&data=followers,repositories,stars,commits&theme=darkmode)
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=sanath-kumar-s&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
+</p>
 
 <h2 align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" alt="🌏" width="28" height="28"> Connect with me:</h2>
@@ -21,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" style="margin:6px" alt="Gmail"/>
   </a>
   <a href="https://www.reddit.com/user/Sanath-10/">
-    <img src="reddit.png" style="margin:6px" width="48" height="48" alt="Reddit"/>
+    <img src="img/reddit.png" style="margin:6px" width="48" height="48" alt="Reddit"/>
   </a>
 </p>
 
@@ -94,3 +99,7 @@
 <br>
 
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c_1f3fb/512.gif" alt="🙌" width="32" height="32"> Passionate developer building cool stuff
+
+<div align="center">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=86&color=gradient&descAlign=61&fontAlign=50&fontAlignY=50&section=footer&reversal"/>
+</div>
