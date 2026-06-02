@@ -92,14 +92,15 @@
 
 <br>
 
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f32a_fe0f/512.gif" alt="🌪" width="28" height="28"> My stats
+
 <p align='center'>
 <img src="./profile-3d-contrib/profile-night-rainbow.svg">
 </p>
+
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanath-kumar-s&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c_1f3fb/512.gif" alt="🙌" width="32" height="32"> Passionate developer building cool stuff
 
-<div align="center">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=86&color=gradient&descAlign=61&fontAlign=50&fontAlignY=50&section=footer&reversal"/>
-</div>
