@@ -101,5 +101,8 @@
 
 <br>
 
-# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c_1f3fb/512.gif" alt="🙌" width="32" height="32"> Passionate developer building cool stuff
 
+
+<div align="center">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=86&color=gradient&descAlign=61&fontAlign=50&fontAlignY=50&section=footer&reversal"/>
+</div>
