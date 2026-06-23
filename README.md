@@ -22,9 +22,9 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30f/512.gif" alt="🌏" width="28" height="28"> Connect with me:</h2>
 
 <p align="left">
-  <a href="sanathkumar5638@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" style="margin:6px" alt="Gmail"/>
-  </a>
+  <a href="mailto:sanathks2009@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" style="margin:6px" alt="Gmail"/>
+</a>
   <a href="https://www.reddit.com/user/Sanath-10/">
     <img src="img/tech/reddit.png" style="margin:6px" width="48" height="48" alt="Reddit"/>
   </a>
